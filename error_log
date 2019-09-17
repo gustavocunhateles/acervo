@@ -1,0 +1,29 @@
+[11-Apr-2019 20:03:55 America/Chicago] PHP Parse error:  Invalid numeric literal in /home3/valuexpc/public_html/acervo/aluno.php on line 25
+[11-Apr-2019 20:04:19 America/Chicago] PHP Parse error:  Invalid numeric literal in /home3/valuexpc/public_html/acervo/aluno.php on line 25
+[11-Apr-2019 20:05:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'int' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 6
+[11-Apr-2019 20:06:54 America/Chicago] PHP Parse error:  Invalid numeric literal in /home3/valuexpc/public_html/acervo/aluno.php on line 23
+[11-Apr-2019 20:11:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home3/valuexpc/public_html/acervo/aluno.php on line 13
+[11-Apr-2019 20:11:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home3/valuexpc/public_html/acervo/aluno.php on line 13
+[11-Apr-2019 20:24:07 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot access private property Aluno::$cpf in /home3/valuexpc/public_html/acervo/aluno.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/valuexpc/public_html/acervo/aluno.php on line 29
+[11-Apr-2019 20:26:02 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot access private property Aluno::$cpf in /home3/valuexpc/public_html/acervo/aluno.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/valuexpc/public_html/acervo/aluno.php on line 35
+[11-Apr-2019 20:26:03 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot access private property Aluno::$cpf in /home3/valuexpc/public_html/acervo/aluno.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/valuexpc/public_html/acervo/aluno.php on line 35
+[11-Apr-2019 20:33:06 America/Chicago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Aluno::__construct(), 0 passed in /home3/valuexpc/public_html/acervo/aluno.php on line 40 and exactly 3 expected in /home3/valuexpc/public_html/acervo/aluno.php:11
+Stack trace:
+#0 /home3/valuexpc/public_html/acervo/aluno.php(40): Aluno->__construct()
+#1 {main}
+  thrown in /home3/valuexpc/public_html/acervo/aluno.php on line 11
+[11-Apr-2019 20:42:10 America/Chicago] PHP Parse error:  syntax error, unexpected '$prof' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 31
+[11-Apr-2019 20:44:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$prof' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 31
+[11-Apr-2019 20:44:44 America/Chicago] PHP Parse error:  syntax error, unexpected '$prof' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 31
+[11-Apr-2019 20:45:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$prof' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 31
+[11-Apr-2019 20:46:58 America/Chicago] PHP Parse error:  syntax error, unexpected '$profe' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/valuexpc/public_html/acervo/aluno.php on line 31
+[12-Apr-2019 06:58:34 America/Chicago] PHP Parse error:  syntax error, unexpected '00100200344' (T_LNUMBER), expecting ',' or ')' in /home3/valuexpc/public_html/acervo/aluno.php on line 81

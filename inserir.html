@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<!--Gustavo Cunha Teles-->
+
+<head>
+<meta charset="utf-8">
+<title>Inserir obra</title>
+</head>
+
+<body>
+
+    <!--Inserção-->
+    <div id="inserir">
+
+	<!--Formulário para armazenar os valores digitados-->
+        <form name="inserir" method="post" enctype="multipart/form-data" action="inserir.php" class="form">
+        
+            <!--Campo que contém os labels e o botão-->	
+            <fieldset>
+            	
+            	<h2>Inserção de nova obra</h2>     
+            	
+                <label>
+                <br/><span class="span">Id da obra</span><br/>
+                <input type="text" name="id"/>
+                </label>
+                
+                <label>
+                <br/><br/><span>Id da editora</span><br/>
+                <input type="text" name="idEditora" class="in"/>
+                </label>
+                
+                <label>
+                <br/><br/><span>Título da obra</span><br/>
+                <input type="text" name="titulo"/>
+                </label>
+                
+                <label>
+                <br/><br/><span>Autor da obra</span><br/>
+                <input type="text" name="autor"/>
+                </label>
+                
+                <label>
+                <br/><br/><span>Ano da obra</span><br/>
+                <input type="text" name="ano"/>
+                </label>
+                
+                <label>
+                <br/><br/><span>Preço da obra</span><br/>
+                <input type="text" name="preco"/>
+                </label>
+                
+                <label>
+                <br/><br/><span>Quantidade da obra</span><br/>
+                <input type="text" name="quantidade"/>
+                </label>
+                
+                <label>
+                <br/><br/><span>Tipo da obra</span><br/>
+                <input type="text" name="tipo"/>
+                </label>
+                
+                <!--Botão de cálculo-->
+                <br><br><input type="submit" name="envia" value="Inserir" class="btn">
+            	<button type="button" class="btn btn-link"><a href="index.php">Menu Principal</a></button>
+            </fieldset>
+        
+        </form>
+
+    </div>
+    
+</body>
+</html>
